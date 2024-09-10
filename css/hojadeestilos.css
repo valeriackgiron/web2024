@@ -1,0 +1,15 @@
+@charset "utf-8";
+container{
+	background-color: #C07C8B;
+}
+.morado {
+	background-color: #C07C8B;
+}
+.imagen {
+	background-image: url(../img/fondo.png);
+	background-size: cover;
+}
+.text-center{
+	background-color: #C07C8B;
+	color: white;
+}
